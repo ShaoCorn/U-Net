@@ -8,3 +8,5 @@ To run the U-Net:
 4. Place your training images and their labels(mask) inside ./data/train/images and ./data/train/labels and place your testing images under ./data/test/images.
 5. Run python data.py
 6. Run python unet.py and wait for the training to happen. Once complete, your results will be placed under ./data/results.
+
+和https://medium.com/coinmonks/learn-how-to-train-u-net-on-your-dataset-8e3f89fbd623搭配使用
